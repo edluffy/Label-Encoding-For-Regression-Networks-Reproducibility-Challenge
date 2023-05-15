@@ -1,0 +1,5 @@
+Yaw: 3.0776, Pitch: 3.5473, Roll: 3.6420
+Yaw: 3.0651, Pitch: 3.4970, Roll: 3.6194
+Yaw: 3.0783, Pitch: 3.5356, Roll: 3.6196
+Yaw: 3.0761, Pitch: 3.5589, Roll: 3.6290
+Yaw: 3.0623, Pitch: 3.4765, Roll: 3.6262

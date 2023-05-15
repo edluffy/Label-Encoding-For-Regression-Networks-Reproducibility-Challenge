@@ -1,0 +1,160 @@
+Ready to train network.train  error in degrees of the model on the 122415 test images. Yaw: 7.9852, Pitch: 5.9340, Roll: 4.9663
+train  MAE= 6.2952
+test_sf  error in degrees of the model on the 1969 test images. Yaw: 7.0885, Pitch: 6.7256, Roll: 5.0432
+test_sf  MAE= 6.2858
+test_cor  error in degrees of the model on the 1969 test images. Yaw: 7.0831, Pitch: 6.7193, Roll: 5.1133
+test_cor  MAE= 6.3052
+test_soft  error in degrees of the model on the 1969 test images. Yaw: 7.0796, Pitch: 6.7133, Roll: 5.0490
+test_soft  MAE= 6.2806
+train  error in degrees of the model on the 122415 test images. Yaw: 1.8168, Pitch: 3.1532, Roll: 2.7572
+train  MAE= 2.5757
+test_sf  error in degrees of the model on the 1969 test images. Yaw: 6.7156, Pitch: 5.9807, Roll: 4.6895
+test_sf  MAE= 5.7953
+test_cor  error in degrees of the model on the 1969 test images. Yaw: 6.7196, Pitch: 5.9791, Roll: 4.7054
+test_cor  MAE= 5.8014
+test_soft  error in degrees of the model on the 1969 test images. Yaw: 6.7007, Pitch: 5.9748, Roll: 4.6837
+test_soft  MAE= 5.7864
+train  error in degrees of the model on the 122415 test images. Yaw: 1.5414, Pitch: 2.6499, Roll: 2.3078
+train  MAE= 2.1664
+test_sf  error in degrees of the model on the 1969 test images. Yaw: 6.5544, Pitch: 6.1533, Roll: 4.4841
+test_sf  MAE= 5.7306
+test_cor  error in degrees of the model on the 1969 test images. Yaw: 6.5686, Pitch: 6.1535, Roll: 4.4865
+test_cor  MAE= 5.7362
+test_soft  error in degrees of the model on the 1969 test images. Yaw: 6.5423, Pitch: 6.1488, Roll: 4.4438
+test_soft  MAE= 5.7116
+train  error in degrees of the model on the 122415 test images. Yaw: 1.3938, Pitch: 2.3963, Roll: 2.0929
+train  MAE= 1.9610
+test_sf  error in degrees of the model on the 1969 test images. Yaw: 6.5520, Pitch: 6.1169, Roll: 4.3591
+test_sf  MAE= 5.6760
+test_cor  error in degrees of the model on the 1969 test images. Yaw: 6.5500, Pitch: 6.1221, Roll: 4.3520
+test_cor  MAE= 5.6747
+test_soft  error in degrees of the model on the 1969 test images. Yaw: 6.5396, Pitch: 6.0963, Roll: 4.3220
+test_soft  MAE= 5.6526
+train  error in degrees of the model on the 122415 test images. Yaw: 1.2895, Pitch: 2.2228, Roll: 1.9603
+train  MAE= 1.8242
+test_sf  error in degrees of the model on the 1969 test images. Yaw: 6.3722, Pitch: 5.6390, Roll: 3.8614
+test_sf  MAE= 5.2909
+test_cor  error in degrees of the model on the 1969 test images. Yaw: 6.3709, Pitch: 5.6331, Roll: 3.8580
+test_cor  MAE= 5.2874
+test_soft  error in degrees of the model on the 1969 test images. Yaw: 6.3594, Pitch: 5.6313, Roll: 3.8290
+test_soft  MAE= 5.2732
+train  error in degrees of the model on the 122415 test images. Yaw: 1.2106, Pitch: 2.1255, Roll: 1.8809
+train  MAE= 1.7390
+test_sf  error in degrees of the model on the 1969 test images. Yaw: 6.3572, Pitch: 5.9125, Roll: 4.3247
+test_sf  MAE= 5.5315
+test_cor  error in degrees of the model on the 1969 test images. Yaw: 6.3572, Pitch: 5.9089, Roll: 4.3222
+test_cor  MAE= 5.5294
+test_soft  error in degrees of the model on the 1969 test images. Yaw: 6.3488, Pitch: 5.8937, Roll: 4.3018
+test_soft  MAE= 5.5147
+train  error in degrees of the model on the 122415 test images. Yaw: 1.1507, Pitch: 2.0236, Roll: 1.7939
+train  MAE= 1.6561
+test_sf  error in degrees of the model on the 1969 test images. Yaw: 6.5437, Pitch: 5.9378, Roll: 4.1306
+test_sf  MAE= 5.5374
+test_cor  error in degrees of the model on the 1969 test images. Yaw: 6.5419, Pitch: 5.9441, Roll: 4.1285
+test_cor  MAE= 5.5382
+test_soft  error in degrees of the model on the 1969 test images. Yaw: 6.5314, Pitch: 5.9166, Roll: 4.1124
+test_soft  MAE= 5.5201
+train  error in degrees of the model on the 122415 test images. Yaw: 1.0989, Pitch: 1.9416, Roll: 1.7193
+train  MAE= 1.5866
+test_sf  error in degrees of the model on the 1969 test images. Yaw: 6.4342, Pitch: 6.0076, Roll: 4.3090
+test_sf  MAE= 5.5836
+test_cor  error in degrees of the model on the 1969 test images. Yaw: 6.4342, Pitch: 6.0132, Roll: 4.3136
+test_cor  MAE= 5.5870
+test_soft  error in degrees of the model on the 1969 test images. Yaw: 6.4125, Pitch: 5.9864, Roll: 4.2714
+test_soft  MAE= 5.5568
+train  error in degrees of the model on the 122415 test images. Yaw: 1.0658, Pitch: 1.8668, Roll: 1.6567
+train  MAE= 1.5298
+test_sf  error in degrees of the model on the 1969 test images. Yaw: 6.4047, Pitch: 6.1258, Roll: 4.3264
+t_sf  MAE= 5.6189
+test_cor  error in degrees of the model on the 1969 test images. Yaw: 6.4128, Pitch: 6.1293, Roll: 4.3228
+test_cor  MAE= 5.6216
+test_soft  error in degrees of the model on the 1969 test images. Yaw: 6.3913, Pitch: 6.1247, Roll: 4.2965
+test_soft  MAE= 5.6042
+train  error in degrees of the model on the 122415 test images. Yaw: 1.0283, Pitch: 1.8217, Roll: 1.6076
+train  MAE= 1.4859
+test_sf  error in degrees of the model on the 1969 test images. Yaw: 6.6144, Pitch: 6.0731, Roll: 4.2042
+test_sf  MAE= 5.6305
+test_cor  error in degrees of the model on the 1969 test images. Yaw: 6.6184, Pitch: 6.0733, Roll: 4.2047
+test_cor  MAE= 5.6321
+test_soft  error in degrees of the model on the 1969 test images. Yaw: 6.6019, Pitch: 6.0479, Roll: 4.1789
+test_soft  MAE= 5.6096
+train  error in degrees of the model on the 122415 test images. Yaw: 0.7960, Pitch: 1.4641, Roll: 1.2993
+train  MAE= 1.1864
+test_sf  error in degrees of the model on the 1969 test images. Yaw: 6.1787, Pitch: 5.9444, Roll: 4.3022
+test_sf  MAE= 5.4751
+test_cor  error in degrees of the model on the 1969 test images. Yaw: 6.1810, Pitch: 5.9454, Roll: 4.3011
+test_cor  MAE= 5.4758
+test_soft  error in degrees of the model on the 1969 test images. Yaw: 6.1627, Pitch: 5.9469, Roll: 4.2765
+test_soft  MAE= 5.4620
+train  error in degrees of the model on the 122415 test images. Yaw: 0.7793, Pitch: 1.4184, Roll: 1.2625
+train  MAE= 1.1534
+test_sf  error in degrees of the model on the 1969 test images. Yaw: 6.3171, Pitch: 5.8585, Roll: 4.2204
+test_sf  MAE= 5.4653
+test_cor  error in degrees of the model on the 1969 test images. Yaw: 6.3166, Pitch: 5.8630, Roll: 4.2219
+test_cor  MAE= 5.4671
+test_soft  error in degrees of the model on the 1969 test images. Yaw: 6.3026, Pitch: 5.8437, Roll: 4.1848
+test_soft  MAE= 5.4437
+train  error in degrees of the model on the 122415 test images. Yaw: 0.7573, Pitch: 1.3819, Roll: 1.2344
+train  MAE= 1.1246
+test_sf  error in degrees of the model on the 1969 test images. Yaw: 6.1109, Pitch: 5.7115, Roll: 4.1779
+test_sf  MAE= 5.3334
+test_cor  error in degrees of the model on the 1969 test images. Yaw: 6.1144, Pitch: 5.7120, Roll: 4.1784
+test_cor  MAE= 5.3349
+test_soft  error in degrees of the model on the 1969 test images. Yaw: 6.0918, Pitch: 5.7046, Roll: 4.1589
+test_soft  MAE= 5.3184
+train  error in degrees of the model on the 122415 test images. Yaw: 0.7491, Pitch: 1.3481, Roll: 1.1952
+train  MAE= 1.0975
+test_sf  error in degrees of the model on the 1969 test images. Yaw: 6.1995, Pitch: 5.7615, Roll: 4.2053
+test_sf  MAE= 5.3887
+test_cor  error in degrees of the model on the 1969 test images. Yaw: 6.2061, Pitch: 5.7650, Roll: 4.2128
+test_cor  MAE= 5.3946
+test_soft  error in degrees of the model on the 1969 test images. Yaw: 6.1893, Pitch: 5.7616, Roll: 4.1915
+test_soft  MAE= 5.3808
+train  error in degrees of the model on the 122415 test images. Yaw: 0.7344, Pitch: 1.3175, Roll: 1.1753
+train  MAE= 1.0757
+test_sf  error in degrees of the model on the 1969 test images. Yaw: 6.0206, Pitch: 5.7715, Roll: 4.1766
+test_sf  MAE= 5.3229
+test_cor  error in degrees of the model on the 1969 test images. Yaw: 6.0297, Pitch: 5.7766, Roll: 4.1751
+test_cor  MAE= 5.3271
+test_soft  error in degrees of the model on the 1969 test images. Yaw: 6.0171, Pitch: 5.7609, Roll: 4.1436
+test_soft  MAE= 5.3072
+train  error in degrees of the model on the 122415 test images. Yaw: 0.7270, Pitch: 1.2991, Roll: 1.1527
+train  MAE= 1.0596
+test_sf  error in degrees of the model on the 1969 test images. Yaw: 5.9621, Pitch: 5.8400, Roll: 4.2797
+test_sf  MAE= 5.3606
+test_cor  error in degrees of the model on the 1969 test images. Yaw: 5.9941, Pitch: 5.8384, Roll: 4.2796
+test_cor  MAE= 5.3707
+test_soft  error in degrees of the model on the 1969 test images. Yaw: 5.9698, Pitch: 5.8315, Roll: 4.2594
+test_soft  MAE= 5.3536
+train  error in degrees of the model on the 122415 test images. Yaw: 0.7216, Pitch: 1.2813, Roll: 1.1416
+train  MAE= 1.0482
+test_sf  error in degrees of the model on the 1969 test images. Yaw: 5.9320, Pitch: 5.6576, Roll: 4.0726
+test_sf  MAE= 5.2208
+test_cor  error in degrees of the model on the 1969 test images. Yaw: 5.9320, Pitch: 5.6541, Roll: 4.0746
+test_cor  MAE= 5.2202
+_soft  error in degrees of the model on the 1969 test images. Yaw: 5.9288, Pitch: 5.6535, Roll: 4.0540
+test_soft  MAE= 5.2121
+train  error in degrees of the model on the 122415 test images. Yaw: 0.7187, Pitch: 1.2672, Roll: 1.1271
+train  MAE= 1.0377
+test_sf  error in degrees of the model on the 1969 test images. Yaw: 6.0465, Pitch: 5.8129, Roll: 4.2240
+test_sf  MAE= 5.3611
+test_cor  error in degrees of the model on the 1969 test images. Yaw: 6.0567, Pitch: 5.8108, Roll: 4.2260
+test_cor  MAE= 5.3645
+test_soft  error in degrees of the model on the 1969 test images. Yaw: 6.0438, Pitch: 5.8123, Roll: 4.1839
+test_soft  MAE= 5.3467
+train  error in degrees of the model on the 122415 test images. Yaw: 0.7032, Pitch: 1.2556, Roll: 1.1138
+train  MAE= 1.0242
+test_sf  error in degrees of the model on the 1969 test images. Yaw: 6.0987, Pitch: 5.7475, Roll: 4.1659
+test_sf  MAE= 5.3374
+test_cor  error in degrees of the model on the 1969 test images. Yaw: 6.1028, Pitch: 5.7429, Roll: 4.1628
+test_cor  MAE= 5.3362
+test_soft  error in degrees of the model on the 1969 test images. Yaw: 6.0851, Pitch: 5.7494, Roll: 4.1441
+test_soft  MAE= 5.3262
+train  error in degrees of the model on the 122415 test images. Yaw: 0.6982, Pitch: 1.2384, Roll: 1.0993
+train  MAE= 1.0120
+test_sf  error in degrees of the model on the 1969 test images. Yaw: 6.0244, Pitch: 5.7599, Roll: 4.1649
+test_sf  MAE= 5.3164
+test_cor  error in degrees of the model on the 1969 test images. Yaw: 6.0279, Pitch: 5.7604, Roll: 4.1685
+test_cor  MAE= 5.3189
+test_soft  error in degrees of the model on the 1969 test images. Yaw: 6.0178, Pitch: 5.7456, Roll: 4.1456
+test_soft  MAE= 5.3030

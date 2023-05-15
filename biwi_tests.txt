@@ -1,0 +1,19 @@
+PATH 0 datasets/biwi/hpdb/07/frame_00137_rgb.png tensor([ 58.8111, 100.8047,  46.3822])
+PREDICTED YAW, PITCH, ROLL: tensor([57.]) tensor([101.]) tensor([51.])
+LABEL YAW, PITCH, ROLL: tensor([58.8111]) tensor([100.8047]) tensor([46.3822])
+
+PATH 0 datasets/biwi/hpdb/15/frame_00626_rgb.png tensor([102.3646,  92.9858,  64.6846])
+PREDICTED YAW, PITCH, ROLL: tensor([104.]) tensor([93.]) tensor([64.])
+LABEL YAW, PITCH, ROLL: tensor([102.3646]) tensor([92.9858]) tensor([64.6846])
+
+PATH 0 datasets/biwi/hpdb/15/frame_00058_rgb.png tensor([71.2932, 85.3425, 57.5268])
+PREDICTED YAW, PITCH, ROLL: tensor([71.]) tensor([85.]) tensor([56.])
+LABEL YAW, PITCH, ROLL: tensor([71.2932]) tensor([85.3425]) tensor([57.5268])
+
+PATH 0 datasets/biwi/hpdb/20/frame_00253_rgb.png tensor([71.0359, 98.2158, 58.5100])
+PREDICTED YAW, PITCH, ROLL: tensor([73.]) tensor([97.]) tensor([59.])
+LABEL YAW, PITCH, ROLL: tensor([71.0359]) tensor([98.2158]) tensor([58.5100])
+
+PATH 0 datasets/biwi/hpdb/07/frame_00732_rgb.png tensor([77.5870, 59.4886, 55.1291])
+PREDICTED YAW, PITCH, ROLL: tensor([81.]) tensor([59.]) tensor([55.])
+LABEL YAW, PITCH, ROLL: tensor([77.5870]) tensor([59.4886]) tensor([55.1291]

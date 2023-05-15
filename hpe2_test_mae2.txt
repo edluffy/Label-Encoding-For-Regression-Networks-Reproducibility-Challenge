@@ -1,0 +1,5 @@
+test_sf  MAE= 4.7474
+test_sf  MAE= 4.7391
+test_sf  MAE= 4.7204
+test_sf  MAE= 4.7170
+test_sf  MAE= 4.7140
