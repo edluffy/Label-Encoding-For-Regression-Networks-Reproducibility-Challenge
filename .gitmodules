@@ -1,0 +1,3 @@
+[submodule "BEL_regression"]
+	path = BEL_regression
+	url = https://github.com/ubc-aamodt-group/BEL_regression
